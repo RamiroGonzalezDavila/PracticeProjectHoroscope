@@ -14,7 +14,5 @@ class MainActivity : AppCompatActivity() {
         //Configuration of the view binding in the activity
         binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
-
-
     }
 }
